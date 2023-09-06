@@ -126,3 +126,57 @@ img {
     top: 91dvh;
   }
 }
+
+/* =================card=============== */
+.mtck-bar__card {
+  display: flex;
+  color: white;
+  background-color: #444545;
+  border-bottom: 2px solid #292f36;
+  align-items: center;
+}
+
+.mtck-bar__img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  margin: 0 10px;
+}
+
+.mtck-wrap {
+  width: 105px;
+  height: 130px;
+  margin: 7px auto;
+  position: relative;
+}
+
+.mtck-bar__content {
+  color: white;
+  width: 65%;
+  padding: 20px 10px 15px 0px;
+}
+
+.mtck-bar__content-title {
+  font-family: 'arialbold', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.mtck-bar__content-text {
+  font-family: 'robotothin', sans-serif;
+  font-size: 13px;
+  padding-top: 15px;
+}
+
+.mtck-elem {
+  content: '';
+  position: absolute;
+  width: 7px;
+  height: 25%;
+  background-image: url(../images/matchstick.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+/* ==================================== */

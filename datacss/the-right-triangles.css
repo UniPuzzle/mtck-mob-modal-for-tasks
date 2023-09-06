@@ -1,0 +1,70 @@
+.mtck-the-right-triangles_1 {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+  top: 31%;
+  left: 37.7%;
+}
+.mtck-the-right-triangles_2 {
+  -ms-transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  transform: rotate(135deg);
+
+  top: 31%;
+  left: 59.5%;
+}
+.mtck-the-right-triangles_3 {
+  -ms-transform: rotate(225deg);
+  -webkit-transform: rotate(225deg);
+  -moz-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  transform: rotate(225deg);
+
+  top: 49%;
+  left: 59.8%;
+}
+.mtck-the-right-triangles_4 {
+  -ms-transform: rotate(315deg);
+  -webkit-transform: rotate(315deg);
+  -moz-transform: rotate(315deg);
+  -o-transform: rotate(315deg);
+  transform: rotate(315deg);
+
+  top: 49%;
+  left: 37.5%;
+}
+.mtck-the-right-triangles_5 {
+  -ms-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+
+  top: 40%;
+  left: 32.8%;
+}
+.mtck-the-right-triangles_6 {
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  top: 40%;
+  left: 64.5%;
+}
+.mtck-the-right-triangles_7 {
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+
+  top: 27.5%;
+  left: 48.9%;
+}

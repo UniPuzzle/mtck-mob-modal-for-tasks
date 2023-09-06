@@ -6,7 +6,7 @@ btn.onclick = function () {
   modalContent.classList.toggle('show-modal-content');
 };
 document.onclick = function (e) {
-  if (e.target.closest('.qwe')) {
+  if (e.target.closest('.link')) {
     modalContent.classList.remove('show-modal-content');
   }
 };

@@ -1,0 +1,29 @@
+/* .itr_mtck--width {
+  display: flex;
+  width: 200px;
+  height: 250px;
+
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.itr_mtck_elem {
+  position: absolute;
+  display: flex;
+  width: 2.75%;
+  height: 25%;
+  outline: 1px solid black;
+  border-radius: 20px;
+}
+
+.itr_mtck_elem::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  position: absolute;
+  background-image: url(../images/matchstick.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+} */
