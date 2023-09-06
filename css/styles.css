@@ -96,14 +96,14 @@ img {
 
   width: 100%;
   background-color: #000000a6;
-  top: 91dvh;
+  top: 92dvh;
   -webkit-animation-name: animatebottom;
   -webkit-animation-duration: 1s;
   animation-name: animatebottom;
   animation-duration: 0.5s;
 }
 .show-modal-content {
-  top: 0;
+  top: 15%;
   -webkit-animation-name: animatetop;
   -webkit-animation-duration: 1s;
   animation-name: animatetop;
@@ -112,18 +112,18 @@ img {
 
 @-webkit-keyframes animatetop {
   from {
-    top: 91dvh;
+    top: 92dvh;
   }
   to {
-    top: 0;
+    top: 15%;
   }
 }
 @-webkit-keyframes animatebottom {
   from {
-    top: 0;
+    top: 15%;
   }
   to {
-    top: 91dvh;
+    top: 92dvh;
   }
 }
 
